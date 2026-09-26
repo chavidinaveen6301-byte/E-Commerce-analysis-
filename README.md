@@ -140,4 +140,5 @@ Olist is a Brazilian e-commerce marketplace connecting sellers with customers na
 
 ## Author
 
-Data Analyst project — Olist E-Commerce SQL Analysis.
+Chavidi Naveen
+chavidinaveen6301@gmail.com
